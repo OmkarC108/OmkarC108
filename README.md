@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Omkar Chaudhari
 
-### 💻 Full Stack Developer | Java & Spring Boot Enthusiast | MERN Stack Developer
+### 💻 Full Stack Developer | Java & Spring Boot Enthusiast | MERN Stack Developer | Data Analyst
 
 Welcome to my GitHub profile! I'm a proactive problem solver with a strong foundation in web development, particularly in Java, Spring Boot, React.js, and Node.js. I also have experience in data analysis, machine learning, and backend development. I'm passionate about building scalable applications and continuously improving my skills.
 
