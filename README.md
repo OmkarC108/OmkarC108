@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @OmkarC108
-- 👀 I’m interested in Coding.
-- 🌱 I’m currently learning Coding.
-- 💞️ I’m looking to collaborate on Coding.
-- 📫 How to reach me omkardeshmukh54@gmail.com
-# 👋 Hi, I'm Omkar Chaudhari
-
 ### 💻 Full Stack Developer | Java & Spring Boot Enthusiast | MERN Stack Developer
 
 Welcome to my GitHub profile! I'm a passionate software developer with a strong background in Java, Spring Boot, and full-stack development. I love building robust, scalable applications and continuously learning new technologies.
