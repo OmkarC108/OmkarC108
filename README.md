@@ -2,72 +2,57 @@
 
 ### 💻 Full Stack Developer | Java & Spring Boot Enthusiast | MERN Stack Developer
 
-Welcome to my GitHub profile! I'm a passionate software developer with a strong background in Java, Spring Boot, and full-stack development. I love building robust, scalable applications and continuously learning new technologies.
+Welcome to my GitHub profile! I'm a proactive problem solver with a strong foundation in web development, particularly in Java, Spring Boot, React.js, and Node.js. I also have experience in data analysis, machine learning, and backend development. I'm passionate about building scalable applications and continuously improving my skills.
 
 ---
 
 ## 🚀 Skills
 
-- **Languages**: Java, JavaScript, Python, C#
-- **Frameworks**: Spring Boot, React.js, Node.js
-- **Databases**: MySQL, MongoDB, PostgreSQL
-- **Tools**: Git, Docker, Jenkins
-- **Other**: RESTful APIs, JWT Security, Microservices, Agile Methodologies
+- **Languages**: Python, C++, Core Java, JavaScript, C#
+- **Frameworks**: Spring Boot, React.js, Node.js, .NET
+- **Databases**: MySQL, MongoDB
+- **Tools**: Git, AWS, Maven, Machine Learning, AI, Data Analysis
+- **Soft Skills**: Leadership, Team Management, Public Speaking
 
 ---
 
-## 🛠️ Projects
+## 🛠️ Major Projects
 
-### [🔗 Blogging Application](https://github.com/OmkarC108/BloggingApp)
-A full-featured blogging platform built with Spring Boot. The application supports user authentication with JWT, CRUD operations for posts, categories, and comments.
+### [Smart Health Consulting and Online Health Shopping Portal](https://github.com/OmkarC108/Final_Eshop_Project.git)
+A portal designed to address modern health issues using a smart health consulting system.
 
-- **Tech Stack**: Spring Boot, MySQL, JWT
+- **Tech Stack**: Machine Learning, Python/Django, HTML, CSS, JavaScript
 - **Features**:
-  - User authentication and authorization with JWT
-  - CRUD operations for blog posts, categories, and comments
-  - RESTful API design
-- **[Live Demo](#)** (if available)
+  - Disease classification using machine learning algorithms.
+  - Online shopping portal for health-related products.
+  - Enhanced user satisfaction with accurate health recommendations.
 
-### [🔗 Trading Bot](https://github.com/OmkarC108/TradingBot)
-An automated trading bot that tracks specific token holders and automates transactions based on user actions.
+### [Java Spring Boot REST API Development](https://github.com/OmkarC108/blog-app-apis.git)
+A comprehensive REST API application for user and content management.
 
-- **Tech Stack**: Python, Flask, SQLite
+- **Tech Stack**: Java, Spring Boot, MySQL, JWT, Spring Security
 - **Features**:
-  - Real-time tracking of token holders
-  - Automated trade execution
-  - Integration with cryptocurrency exchanges
-- **[Live Demo](#)** (if available)
+  - CRUD operations for user management, categories, and posts.
+  - Role-based access control with JWT and Basic Auth.
+  - Secure API endpoints with Spring Security.
 
-### [🔗 MERN Stack E-commerce Platform](https://github.com/OmkarC108/MERN-Ecommerce)
-A complete e-commerce platform built using the MERN stack, featuring user authentication, product management, and a shopping cart system.
+### [MERN Stack Platform](https://github.com/OmkarC108/Book_Library.git)
+An application that integrates a React.js frontend with a Node.js backend and MySQL database.
 
-- **Tech Stack**: MongoDB, Express.js, React.js, Node.js
+- **Tech Stack**: React.js, Node.js, MySQL
 - **Features**:
-  - User authentication and authorization
-  - Product management and shopping cart
-  - Payment gateway integration
-- **[Live Demo](#)** (if available)
-
----
-
-## 📈 GitHub Stats
-
-![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmkarC108&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarC108&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  - Seamless data management and integration between frontend and backend.
+  - User-friendly interface for managing book inventory.
+  - Real-time updates and data synchronization.
 
 ---
 
 ## 🌐 Connect with Me
 
-- **LinkedIn**: [Omkar Chaudhari](https://www.linkedin.com/in/omkarchaudhari)
+- **Portfolio**: [My Portfolio](https://omkarchaudhari.vercel.app)
+- **LinkedIn**: [Omkar Chaudhari](https://www.linkedin.com/in/omkarchaudhari108)
 - **Email**: omkardeshmukh54@gmail.com
 
 ---
 
 Thank you for visiting my profile! Feel free to check out my projects and get in touch if you'd like to collaborate or learn more about my work.
-
-<!---
-OmkarC108/OmkarC108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
