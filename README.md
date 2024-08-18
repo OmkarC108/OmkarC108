@@ -50,8 +50,9 @@ An application that integrates a React.js frontend with a Node.js backend and My
 
 ### 📊 GitHub Stats
 
-![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmkarC108&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarC108&layout=compact&theme=radical)
+[![Omkar's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OmkarC108&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Omkar's Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OmkarC108&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Omkar's Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OmkarC108&theme=radical&utcOffset=8)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ### 🔥 GitHub Streak Stats
 
