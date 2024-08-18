@@ -63,7 +63,7 @@ An application that integrates a React.js frontend with a Node.js backend and My
 
 ### 📦 Repository Stats
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OmkarC108&repo=Final_Eshop_Project&theme=radical)](https://github.com/OmkarC108/Final_Eshop_Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OmkarC108&repo=banking-app&theme=radical)](https://github.com/OmkarC108/banking-app)
 
 
 ---
