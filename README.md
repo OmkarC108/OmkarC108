@@ -47,6 +47,14 @@ An application that integrates a React.js frontend with a Node.js backend and My
 
 ---
 
+## 📈 GitHub Stats
+
+![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmkarC108&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarC108&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ## 🌐 Connect with Me
 
 - **Portfolio**: [My Portfolio](https://omkarchaudhari.vercel.app)
