@@ -1,3 +1,5 @@
+# 👋 Hi, I'm Omkar Chaudhari
+
 ### 💻 Full Stack Developer | Java & Spring Boot Enthusiast | MERN Stack Developer
 
 Welcome to my GitHub profile! I'm a passionate software developer with a strong background in Java, Spring Boot, and full-stack development. I love building robust, scalable applications and continuously learning new technologies.
